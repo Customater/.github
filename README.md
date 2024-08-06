@@ -9,4 +9,4 @@ The AI-powered Customer Service Platform is an innovative system designed to rev
 - AI Agent: Handles complex queries.
 - Analytics Engine: Logs and analyzes interactions.
 
-![Banner](../diagram/System-Context.png)
+![Banner](diagram/System-Context.png)
