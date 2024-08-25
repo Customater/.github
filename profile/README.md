@@ -4,6 +4,7 @@ The AI-powered Customer Service Platform is an innovative system designed to rev
 ## Main System Components:
 - NLP Chatbot: Handles customer interactions.
 - Sentiment Analysis: Analyzes customer sentiment.
+- [Ticketing System]([url](https://github.com/customater/ticketing/)): Manage new tickets.
 - Ticket Router: Routes complex queries.
 - Knowledge Base: Stores and retrieves information.
 - AI Agent: Handles complex queries.
